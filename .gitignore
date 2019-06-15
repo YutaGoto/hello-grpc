@@ -1,0 +1,18 @@
+# go
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+#ruby
+
+*.rbc
+/.bundle
+/vendor/bundle
+
+# Ignore Mac temp file
+.DS_Store
